@@ -13,10 +13,10 @@
 <p align="center">
   <a href="https://instagram.com/kellerffx" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kellerffx" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/allianceoficial" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/discord.svg" alt="Discord" height="30" width="40" />
+<a href="https://discord.gg/allianceoficial" target="_blank">
+  <img align="center" src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" height="30" width="40" />
 </a>
+
 
   </a>
 </p>
