@@ -3,9 +3,9 @@
 
 <div align="center">
 
-- 🌱 I’m currently learning **Digital Forensic's**
+ 🌱 I’m currently improving **Digital Forensic's**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kellerzz?tab=repositories](https://github.com/kellerzz?tab=repositories)
+ 👨‍💻 All of my projects are available at [https://github.com/kellerzz?tab=repositories](https://github.com/kellerzz?tab=repositories)
 
 </div>
 
@@ -14,8 +14,10 @@
   <a href="https://instagram.com/kellerffx" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kellerffx" height="30" width="40" />
   </a>
-  <a href="https://discord.gg/allianceoficial" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="allianceoficial" height="30" width="40" />
+<a href="https://discord.gg/allianceoficial" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/discord.svg" alt="Discord" height="30" width="40" />
+</a>
+
   </a>
 </p>
 
